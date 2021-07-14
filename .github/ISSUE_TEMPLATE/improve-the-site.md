@@ -1,6 +1,6 @@
 ---
 name: Improve the docs.github.com site
-about: Make a suggestions or report a problem on the docs.github.com website.
+about: Make a suggestion or report a problem about the technical implementation of docs.github.com.
 title: ''
 labels: engineering
 assignees: ''
@@ -22,7 +22,7 @@ Check to make sure someone hasn't already opened a similar issue: https://github
 
 ### What is the current behavior?
 
-<!-- include links to articles where you're seeing a problem, screenshots, what browser you're using, etc. -->
+<!-- Include links to articles where you're seeing a problem, screenshots, what browser you're using, etc. -->
 
 ### What changes are you suggesting?
 
