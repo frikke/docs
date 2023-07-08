@@ -125,7 +125,7 @@
     "jest": "^26.0.1",
     "jest-expect-message": "^1.0.2",
     "jest-github-actions-reporter": "^1.0.2",
-    "jest-puppeteer": "^4.4.0",
+    "jest-puppeteer": "^9.0.0",
     "jest-silent-reporter": "^0.2.1",
     "jest-slow-test-reporter": "^1.0.0",
     "make-promises-safe": "^5.1.0",
@@ -146,7 +146,7 @@
     "supertest": "^4.0.2",
     "url-template": "^2.0.8",
     "webpack-dev-middleware": "^3.7.2",
-    "website-scraper": "^4.2.0"
+    "website-scraper": "^5.3.1"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=development ENABLED_LANGUAGES='en,ja' nodemon server.js",
